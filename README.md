@@ -1,5 +1,13 @@
 # Matplotlib-Challenge
 
+# How to Run Code
+
+1. Clone repository to a folder on computer
+
+2. Navigate to MatPlot Lib HW.ipynb in jupyter lab
+
+3. Run all cells
+
 * Gather statistics on effectiveness of tumor treatment regimens using data from a recent mouse study:
 * Mouse_metadata.csv and Study_results.csv
 
